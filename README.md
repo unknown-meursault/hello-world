@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-Just test
+Brand new description
